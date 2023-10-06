@@ -10,7 +10,7 @@ document.getElementById("login-form").addEventListener("submit", function (e) {
     if (username === "rean24@gmail.com" && password === "rean24@") {
         document.getElementById("login").textContent="Login successful!";
         let text = "Start now!";
-let result = text.link("file:///C:/Users/Dell/Desktop/log%20in/testing.html");
+let result = text.link("https://sokdavit59.github.io/webpage/");
      document.getElementById("login-status").innerHTML= result;//textContent="Login successful!";
      result = "<a href='https://www.w3schools.com'>" + text + "</a>";
     

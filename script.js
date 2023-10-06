@@ -12,7 +12,7 @@ document.getElementById("login-form").addEventListener("submit", function (e) {
         let text = "Start now!";
 let result = text.link("https://sokdavit59.github.io/webpage/");
      document.getElementById("login-status").innerHTML= result;//textContent="Login successful!";
-     result = "<a href='https://www.w3schools.com'>" + text + "</a>";
+     result = "<https://sokdavit59.github.io/webpage/>" + text + "</a>";
     
      
     
